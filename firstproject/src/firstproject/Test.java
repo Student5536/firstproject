@@ -4,10 +4,8 @@ public class Test {
 
 	public static void main(String[]args) {
 		
-		System.out.println("My first project: GitHub");
+		System.out.println("My first project: GitHub Student5536");
 		
-		for(int i =0; i < 10; i++) {
-			System.out.println("Das neue Semester hat angefangen");
-		}
+	
 	}
 }
